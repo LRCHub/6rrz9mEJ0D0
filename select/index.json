@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "桜てのひら",
+  "base_artist": "Gothic×Luck",
+  "createdAt": "2026-03-06T14:19:19.074344Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "桜てのひら",
+      "artist": "Gothic×Luck",
+      "has_synced": false,
+      "path": "select/pl_01_桜てのひら_Gothic×Luck.txt"
+    }
+  ]
+}
